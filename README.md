@@ -3,7 +3,7 @@
 ![OpenSource Love](https://img.shields.io/badge/open%20source-%E2%9D%A4-green)
 ![GitHub](https://img.shields.io/github/license/XiaoqiWang/VIPNet)
 
-### ✌️👍🚩 ${\mathbb{VIP}}$ Net: Visual Interaction Perceptual Network for Blind Image Quality Assessment
+### :v::thumbsup::triangular_flag_on_post: $\mathbb{VIP}$<b>Net</b>: <b>Visual Interaction Perceptual Network</b> for <b>Blind Image Quality Assessment
 ---
   
 ### :file_folder: Intro
