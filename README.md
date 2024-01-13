@@ -39,14 +39,14 @@ The pre-trained DPM models can be downloaded from [Google Drive](https://drive.g
 ### :bookmark_tabs: Citation
 If our research has been helpful to you, please consider citing our paper in your work.
 ```bash
-@ARTICLE{vipnet_tmm,
+@ARTICLE{vipnet2023_wang,
   author={Wang, Xiaoqi and Xiong, Jian and Lin, Weisi},
   journal={IEEE Transactions on Multimedia}, 
   title={Visual Interaction Perceptual Network for Blind Image Quality Assessment}, 
   year={2023},
-  volume={},
+  volume={25},
   number={},
-  pages={1-13},
+  pages={8958-8971},
   doi={10.1109/TMM.2023.3243683}}
 
 ```
